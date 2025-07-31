@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi there, I'm Yahya 👋
+## Hi there 👋, I'm Yahya
 
 I'm a passionate developer interested in creating apps and web development.
 
