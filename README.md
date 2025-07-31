@@ -9,7 +9,7 @@ I'm a passionate developer interested in C++, systems programming, and web devel
 - VS Code, Linux
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yahya-daud&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YahyaMuminDaud&show_icons=true&theme=radical)
 
 ## 🌱 Currently Learning
 - Advanced C++
