@@ -1,10 +1,10 @@
 ## Hi there 👋
 # Hi there, I'm Yahya 👋
 
-I'm a passionate developer interested in C++, systems programming, and web development.
+I'm a passionate developer interested in creating apps and web development.
 
 ## 🔧 Technologies & Tools
-- C++, Python, JavaScript
+- C++, Python, JavaScript, Java
 - Git & GitHub
 - VS Code, Linux
 
@@ -17,6 +17,6 @@ I'm a passionate developer interested in C++, systems programming, and web devel
 - Building scalable APIs
 
 ## 📫 How to Reach Me
-- Email: your@email.com
-- LinkedIn: [YourLinkedIn](https://linkedin.com/in/yourname)
+- Email: yahyamdaud21@gmail.com
+- LinkedIn: [Yahya Daud](https://www.linkedin.com/in/yahya-daud-a9b589286/)
 
