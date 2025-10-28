@@ -7,9 +7,6 @@ I'm a passionate developer interested in creating apps and web development.
 - Git & GitHub
 - VS Code, Linux
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YahyaMuminDaud&show_icons=true&theme=radical)
-
 ## 🌱 Currently Learning
 - Advanced C++
 - React and Next.js
