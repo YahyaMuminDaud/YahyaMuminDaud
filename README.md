@@ -10,7 +10,7 @@ I'm a passionate developer interested in creating apps and web development.
 ## 🌱 Currently Learning
 - Advanced C++
 - React and Next.js
-- Building scalable APIs
+- Hooking LLMS to random things
 
 ## 📫 How to Reach Me
 - Email: yahyamdaud21@gmail.com
